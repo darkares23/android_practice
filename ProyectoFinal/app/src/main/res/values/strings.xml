@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Proyecto Final</string>
+    <string name="tvCorreo">Correo</string>
+    <string name="tvClave">Clave</string>
+    <string name="btnRegistrarse">Registrarse</string>
+    <string name="tvNumeroUnidades">Numero Unidades</string>
+    <string name="tvValorUnitario">Valor Unitario</string>
+    <string name="rb5prcnt">5%</string>
+    <string name="rb10prcnt">10%</string>
+    <string name="tvDescuento">Descuento</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="btnCerrarSesion">Cerrar Sesión</string>
+    <string name="tvNombre">Nombre</string>
+    <string name="btnIniciar">Iniciar</string>
+</resources>
